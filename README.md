@@ -1,0 +1,1 @@
+My first real time react mini-project. i have created a menu application which can toggle between menu items based on the time and availability of the item. Data displayed is provided by a mini api designed and it contains an array of all the data to be displayed, on addition of new data, the program can automatically create new sections and item cards
